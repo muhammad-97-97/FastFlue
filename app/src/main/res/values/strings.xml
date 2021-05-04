@@ -1,0 +1,30 @@
+<resources>
+    <string name="google_map_api_key">AIzaSyBU0W_g3bsKhsnn1HzIsZvMJhZEoTJubhY</string>
+    <string name="app_name">FastFuel</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="authention_fastfuel">Authention FastFuel</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+
+    <string name="create_new_account">Create New Account</string>
+    <string name="new_here_create_account">New Here? Create Account</string>
+    <string name="login">Login</string>
+    <string name="address">Address</string>
+    <string name="non_member">Non-member</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_the_dashboard">Welcome to the Dashboard</string>
+    <string name="map">MAP</string>
+    <string name="already_have_account_login_here">Already have account? Login Here!</string>
+    <string name="emergency">Emergency</string>
+    <string name="general">General</string>
+    <string name="fastfuel">FastFuel</string>
+    <string name="choose_your_preference">Choose Your Preference</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip Code</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+
+</resources>

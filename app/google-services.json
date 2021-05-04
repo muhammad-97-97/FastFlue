@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432950835408",
+    "firebase_url": "https://fastfuel-a3450.firebaseio.com",
+    "project_id": "fastfuel-a3450",
+    "storage_bucket": "fastfuel-a3450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432950835408:android:8aa1902c36d293057ac6d5",
+        "android_client_info": {
+          "package_name": "com.example.fastfuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432950835408-7nsa56iuk5g4slmft6esa61gcjhg0pb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOk68IsmtF3cY3n-XUyfHnwtWjBr35UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432950835408-7nsa56iuk5g4slmft6esa61gcjhg0pb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
